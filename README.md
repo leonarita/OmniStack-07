@@ -31,7 +31,8 @@ Foram feitas as seguintes funcionalidades:
   2. Controllers;
   3. Conexão com banco de dados;
   4. Criação das rotas;
-  5. Aplicação on real time.
+  5. Upload de fotos;
+  6. Aplicação on real time.
 
 <br>
 
